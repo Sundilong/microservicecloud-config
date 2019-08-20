@@ -1,6 +1,6 @@
 spring: 
   profiles: 
-    active:       #3个减号作为分隔符
+    active: #3个减号作为分隔符
     - dev 	
 ---
 spring: 

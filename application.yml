@@ -5,11 +5,11 @@ spring:
 ---
 spring: 
   profiles: dev		#开发环境
-    application: 
-      name: microservicecloud-config-sdl-dev 
+  application: 
+    name: microservicecloud-config-sdl-dev 
 ---
 spring: 
   profiles: test	#测试环境
-    application: 
-      name: microservicecloud-config-sdl-test 
+  application: 
+    name: microservicecloud-config-sdl-test 
 #保存为UTF-8格式 
